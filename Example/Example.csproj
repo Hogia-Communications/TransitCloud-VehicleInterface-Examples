@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Hogia.TransitCloud.Labs.VehicleInterface.Example</AssemblyName>
+    <RootNamespace>Hogia.TransitCloud.Labs.VehicleInterface.Example</RootNamespace>
+  </PropertyGroup>
+
+</Project>
